@@ -1,6 +1,6 @@
 
 
-🎓 University Complaint Management System
+#🎓 University Complaint Management System
 
 📌 Project Description
 
@@ -81,7 +81,8 @@ User authentication
 
 👩‍💻 Author
 
-Pavithra H
+PAVITHRA HARIRAMAN
+
 B.E (CSE – AIML)
 🔗Github:https://github.com/pavithra0319
 🔗LinkedIn:https://www.linkedin.com/in/pavithra-hariraman
