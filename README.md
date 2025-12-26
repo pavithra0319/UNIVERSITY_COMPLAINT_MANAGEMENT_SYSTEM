@@ -82,8 +82,8 @@ User authentication
 👩‍💻 Author
 
 PAVITHRA HARIRAMAN
-
 B.E (CSE – AIML)
+
 🔗Github:https://github.com/pavithra0319
 🔗LinkedIn:https://www.linkedin.com/in/pavithra-hariraman
 
