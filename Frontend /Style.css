@@ -1,0 +1,104 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", Arial, sans-serif;
+  background: url("Images/WhatsApp\ Image\ 2025-12-25\ at\ 2.11.56\ PM.jpeg") no-repeat center/cover;
+}
+
+/* NAVBAR */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 30px;
+  background: rgba(0,0,0,0.8);
+  color: white;
+}
+
+.nav-left {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.logo {
+  width: 45px;
+}
+
+.college-name {
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.admin-icon {
+  font-size: 26px;
+  cursor: pointer;
+}
+
+/* OVERLAY */
+.overlay {
+  min-height: 100vh;
+  background: rgba(0,0,0,0.65);
+  padding-top: 40px;
+}
+
+/* CARD */
+.card {
+  background: #ffffff;
+  color: #000;
+  max-width: 420px;
+  margin: 30px auto;
+  padding: 25px;
+  border-radius: 14px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+}
+
+.card h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* FORM FIX (EVEN BOXES) */
+.form-group {
+  margin-bottom: 15px;
+}
+
+input, select, textarea {
+  width: 100%;
+  padding: 12px;
+  font-size: 15px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+textarea {
+  resize: none;
+  height: 90px;
+}
+
+button {
+  width: 100%;
+  padding: 12px;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #0056b3;
+}
+
+.hidden {
+  display: none;
+}
+
+/* MOBILE */
+@media (max-width: 600px) {
+  .college-name {
+    font-size: 16px;
+  }
+
+}
