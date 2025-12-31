@@ -1,6 +1,8 @@
 
 
-#🎓 University Complaint Management System
+#🎓 UNIVERSITY COMPLAINT MANAGEMENT                 SYSTEM 
+
+
 
 📌 Project Description
 
@@ -62,7 +64,8 @@ University-Complaint-Management-System/
 
 4. Track the complaint status through the status page.
 
-Attach the files:
+OUTCOME SCREENSHOT:
+
 ![Image](https://github.com/user-attachments/assets/83395a5c-30ae-4802-84a0-73d5fb9d17ae)
 
 🎯 Future Enhancements
